@@ -12,6 +12,10 @@ Simple Tool that converts a Youtube Video to MP4 or MP3
 
 ```pip install moviepy```
 
+-Open _Config.txt and replace the save path with your desired location to save downloaded files in.
+
+![Screenshot 2022-07-11 182517](https://user-images.githubusercontent.com/63674376/178299902-93dca410-477a-4e8d-b923-74928714a510.png)
+
 -Run YoutubeToMPFormat.py
 
 -Enter Youtube Video Link
