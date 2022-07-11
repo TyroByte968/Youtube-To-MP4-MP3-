@@ -5,7 +5,7 @@ Simple Tool that converts a Youtube Video to MP4 or MP3
 - Pytube (https://pytube.io/en/latest/)
 - Moviepy (https://pypi.org/project/moviepy)
 
-#Setup
+# Setup
 -Install Pytube and Moviepy
 
 ```pip install pytube```
