@@ -4,6 +4,7 @@ from moviepy.editor import *
 def DownloadMP4(_vidlink = None,AudioOnly = False):
     #Downloads MP4 File from Youtube URL and outputs it as an MP4 w/wo Audio (For Easy Conversion purposes).
     global mp4file
+    #You can obtain the Title name of the video by referencing this variable after calling this function once.
     global mp4filename
 
     yt = YouTube(_vidlink)
