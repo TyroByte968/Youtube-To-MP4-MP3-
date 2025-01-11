@@ -1,5 +1,5 @@
 # Youtube-To-MP4-or-MP3
-Simple Tool that converts a Youtube Video to MP4 or MP3
+Simple tool that converts a youtube video to MP4 or MP3 format.
 
 # Dependencies
 - Pytube (https://pytube.io/en/latest/)
